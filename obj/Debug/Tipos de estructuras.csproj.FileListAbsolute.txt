@@ -1,0 +1,7 @@
+E:\Trabajos de visual\Tipos de estructuras\bin\Debug\Tipos de estructuras.exe.config
+E:\Trabajos de visual\Tipos de estructuras\bin\Debug\Tipos de estructuras.exe
+E:\Trabajos de visual\Tipos de estructuras\bin\Debug\Tipos de estructuras.pdb
+E:\Trabajos de visual\Tipos de estructuras\obj\Debug\Tipos de estructuras.csproj.AssemblyReference.cache
+E:\Trabajos de visual\Tipos de estructuras\obj\Debug\Tipos de estructuras.csproj.CoreCompileInputs.cache
+E:\Trabajos de visual\Tipos de estructuras\obj\Debug\Tipos de estructuras.exe
+E:\Trabajos de visual\Tipos de estructuras\obj\Debug\Tipos de estructuras.pdb
